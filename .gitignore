@@ -1,0 +1,22 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+*.sqlite3
+.DS_Store
+__pycache__/
+**/__pycache__/
+**/credentials/
+**sqlitedb/
+
+# models/
+post_draft.ipynb
+preprocess_w_detectron.ipynb
+orientation.ipynb
+test_predict_model_rotated_v2.csv
+test_predict_model_v2.csv
+test_predict_model_v1.csv
+hps
+backtesting2.ipynb
+.env
+student_card_model
+student_card_model_v2
